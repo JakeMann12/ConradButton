@@ -1,0 +1,12 @@
+# PlatformIO build artifacts
+.pioenvs/
+.pio/
+
+# Installed library dependencies (managed by PlatformIO)
+.piolibdeps/
+
+# VS Code user-specific settings (keep extensions.json if sharing workspace recommendations)
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
+.vscode/c_cpp_properties.json   
