@@ -8,7 +8,7 @@ void enterDeepSleep();
 // CC1101 to NodeMCU ESP8266 has the following connections:
 // CS pin:    15
 // GDO0 pin:  5
-// RST pin:   unused  sasds
+// RST pin:   unused
 // GDO2 pin:  4 (optional)
 
 
